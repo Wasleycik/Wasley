@@ -1,12 +1,10 @@
 # Hi there , I'm Wasley
 ![profile count](https://komarev.com/ghpvc/?username=Wasleyy&color=red)&nbsp;
 [![GitHub JaylenOzi](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/Wasleyy)&nbsp;
-<a href="https://instagram.com/omer_celik22"><img src="https://img.shields.io/badge/@ariscikmis-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+<a href="https://instagram.com/omer_celik22"><img src="https://img.shields.io/badge/@omer_celik22-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
 
 My Server
-https://discord.gg/hesperos
-
-https://discord.gg/44ParXj8Fg
+https://discord.gg/hesperos - https://discord.gg/44ParXj8Fg
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
@@ -18,6 +16,6 @@ https://discord.gg/44ParXj8Fg
 
 <h3 align="left">:bar_chart: GitHub Stats:</h3>
 <p align="left">
-   <img src="https://github-readme-stats.vercel.app/api?username=ariscik&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
-<img src="https://github-profile-trophy.vercel.app/?username=ariscik&theme=radical" />
+   <img src="https://github-readme-stats.vercel.app/api?username=Wasleyy&count_private=true&show_icons=true&theme=dark&hide_border=true" width="%100" height="150px" alt="stats" />
+<img src="https://github-profile-trophy.vercel.app/?username=Wasleyy&theme=radical" />
 </p>

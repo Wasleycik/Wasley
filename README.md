@@ -1,5 +1,5 @@
 # Hi there , I'm Wasley
-![profile count](https://komarev.com/ghpvc/?username=Wasleyy&color=red)&nbsp;
+![profile count](https://komarev.com/ghpvc/?username=Wasleycik&color=red)&nbsp;
 [![GitHub Wasleycik](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/Wasleycik)&nbsp;
 
 My Server

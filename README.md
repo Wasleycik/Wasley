@@ -1,10 +1,9 @@
 # Hi there , I'm Wasley
 ![profile count](https://komarev.com/ghpvc/?username=Wasleyy&color=red)&nbsp;
-[![GitHub JaylenOzi](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/Wasleyy)&nbsp;
-<a href="https://instagram.com/omer_celik22"><img src="https://img.shields.io/badge/@omer_celik22-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+[![GitHub Wasleycik](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/Wasleycik)&nbsp;
 
 My Server
-https://discord.gg/hesperos - https://discord.gg/44ParXj8Fg
+https://discord.gg/hesperos - https://discord.gg/RPxRfU2ZpM
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

@@ -3,6 +3,8 @@
 [![GitHub Wasleycik](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/Wasleycik)&nbsp;
 
 My Server
+
+**HESPEROS :** https://discord.gg/hbcBt29pf5
 https://discord.gg/hesperos - https://discord.gg/RPxRfU2ZpM
 
 ## Langauges I Know:

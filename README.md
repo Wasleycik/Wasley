@@ -18,4 +18,4 @@ https://discord.gg/hesperos - https://discord.gg/RPxRfU2ZpM
 <img src="https://github-profile-trophy.vercel.app/?username=Wasleycik&theme=radical" />
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/980068541405462528)](https://discord.com/users/598974473374400512)
+[![Discord Presence](https://lanyard.cnrad.dev/api/598974473374400512)](https://discord.com/users/598974473374400512)

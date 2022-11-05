@@ -4,7 +4,7 @@
 
 My Server
 
-**HESPEROS :** https://discord.gg/hbcBt29pf5 <t:1615812664:R>
+**HESPEROS :** https://discord.gg/hbcBt29pf5
 
 **Community Altyapı Sunucusu:** https://discord.gg/44ParXj8Fg
 

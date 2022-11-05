@@ -5,7 +5,8 @@
 My Server
 
 **HESPEROS :** https://discord.gg/hbcBt29pf5
-https://discord.gg/hesperos - https://discord.gg/RPxRfU2ZpM
+
+**Community Alatyapı Sunucusu:** https://discord.gg/44ParXj8Fg
 
 ## Langauges I Know:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;

@@ -1,12 +1,16 @@
-# Hi there , I'm Wasley
+# Merhaba , Ben Wasley
 ![profile count](https://komarev.com/ghpvc/?username=Wasleycik&color=red)&nbsp;
 [![GitHub Wasleycik](https://img.shields.io/github/followers/ariscik?label=follow&style=social)](https://github.com/Wasleycik)&nbsp;
 
-My Server
+---------------------------------------------
+
+## Sunucularım
 
 **HESPEROS :** https://discord.gg/hbcBt29pf5
 
 **Community Altyapı Sunucusu:** https://discord.gg/44ParXj8Fg
+
+---------------------------------------------
 
 ## Bilgim Olan Yazılım Dilleri:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
